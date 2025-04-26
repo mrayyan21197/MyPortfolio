@@ -108,7 +108,6 @@ export const PROJECTS = [
 
 
 export const CONTACT = {
-  address: "House no 470, Pakistan, I-10 Islamabad ",
   phoneNo: "+92 333-1915994  ",
   email: "ryaraid1293@gmail.com",
 };
